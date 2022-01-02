@@ -1,2 +1,2 @@
 # HackerRankSolutions
-personal storag eof hackerank solutions
+personal storage of hackerank solutions
